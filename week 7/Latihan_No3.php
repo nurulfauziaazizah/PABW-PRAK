@@ -7,6 +7,6 @@ function faktorial($angka){
     }
     echo "xFaktorial dari $angka adalah $hasil " ;
 }
-$angka = 4;
+$angka = 9;
 faktorial($angka);
 ?>
