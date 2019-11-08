@@ -1,0 +1,23 @@
+Nama : Nurul Fauzia Azizah
+NIM : 14117071
+PABW-RB
+
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda,
+Pernakah terjadi error ketika adakesalahan kode?
+Jawab :
+Tidak error tapi ada bagian yang hilang karena perintah tidak terbaca.
+
+2. Cobalah ubah nilai meta refresh 
+content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan
+apa diantara kegunaan meta dokumen?
+Jawab :
+Mengalamatkan web browser dihalaman web secara otomatis merefresh halaman tersebut kehalaman web yang kita cantumkan pada metadocument dengan estimasi waktu yang sudah disetting.
+
+3.Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+Jawab :
+thead berfungsi mengelompokkan konten yang terletak di kepala (atas) sebuah tabel
+tbody berfungsi mengelompokkan konten atau isi yang terletak pada bagian tengah (tubuh) sebuah tabel
+tr berfungsi menunjukkan table row atau baris sebuah table
+th berfungsi mengisi bagian thead
+Td berfungsi mengisi bagian body
+
