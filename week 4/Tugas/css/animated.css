@@ -1,0 +1,15 @@
+
+.animasi-teks{
+	color: black;
+	text-align: center;
+	font-size: 2em;
+	font-weight: lighter;
+	width: 30em;
+	white-space: nowrap;
+	overflow: hiddden;
+	animation:keyframe 5s steps(200)infinite;
+}
+
+@keyframes keyframe{
+	from { width: 0px; }
+}
